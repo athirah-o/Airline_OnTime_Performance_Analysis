@@ -1,4 +1,4 @@
-# STQD6324_DataManagement_Assignment2
+# Analysis on Airline On-Time Performance using HIVE and Python.
 In this project, we will utilize data from Kaggle's Data Expo 2009: Airline On Time Data, encompassing airline performance data from 1995 to 2007, to analyze trends and patterns in flight delays and cancellations. Specifically, we will focus on the dataset from 2004.csv, which contains 7,129,270 entries spread across 29 columns. Our primary objective is to explore the optimal time to minimize the flight delays and identify the key factors contributing to delays and cancellations. Given the substantial size of the dataset, we will leverage HIVE for efficient data processing and analysis, and use Python for visualizing the results.
 
 ## All files used in this python script can be access through below link:
